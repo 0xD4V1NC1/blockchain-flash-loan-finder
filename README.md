@@ -12,8 +12,7 @@ Steps:
 
 6. run the command node index.js
 
-Main branch - Ethereum Blockchain
-Polygon branch - Polygon Blockchain (currently being worked on)
+Main branch - Polygon Blockchain (currently being worked on)
 Avalanche branch - Avalanche Blockchain (currently being worked on)
 Fantom branch - Fantom Opera Blockchain (currently being worked on)
 BSC branch - Binance Smart Chain (currently being worked on)
